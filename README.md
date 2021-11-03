@@ -1,0 +1,3 @@
+# Coursework from course in Time Series Analysis, Lund University, Faculty of Engineering (LTH)
+
+Done with Lovisa bielke... 
